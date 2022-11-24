@@ -1,0 +1,52 @@
+button{
+    width: 10rem;
+    height:3rem;
+    border-radius: 25px;
+    background: transparent;
+}
+.primary-big{
+    color: white;
+    background-color: #f53838;
+    border:none;
+    width: 13rem;
+    height: 3.5rem;
+    border-radius: 10px;
+  
+}
+.primary-big:hover{
+    color: white;
+    background-color: #f53838;
+    box-shadow: #f53838 0px 20px 50px -15px;
+}
+.primary{
+    color: white;
+    background-color: #f53838;
+    border:none;
+}
+.primary:hover{
+    color: white;
+    background-color: #f53838;
+      box-shadow: #f53838 0px 20px 50px -15px;
+}
+.outline{
+    border:1px solid#f53838;
+    color: rgb(245, 56, 56); 
+}
+.outline:hover{
+    background-color: #f53838;
+    color: white;
+}
+
+.list{
+    border: none;
+
+}
+.list:hover{
+    border:1px solid#f53838;
+    color: rgb(245, 56, 56); 
+}
+
+.filled{
+    background-color: #f53838;
+    color: white !important;
+}
