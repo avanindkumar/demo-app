@@ -1,0 +1,27 @@
+.network-section{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+    gap:50px
+
+}
+.network-section-map>img{
+    width: 80%;
+    height: 80%;
+
+}
+
+.network-section-logos{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+
+}
+.network-section-logos>img{
+    width: 15%;    
+    display: block;
+}

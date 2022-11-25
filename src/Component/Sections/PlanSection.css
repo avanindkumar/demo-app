@@ -1,0 +1,27 @@
+.plans{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+    gap:50px
+}
+
+
+.plans-card{
+    justify-content: center;
+    display: flex;
+    gap: 5%;
+
+}
+
+@media only screen and (max-width: 768px){
+    .plans{
+        width: 100%;
+    }
+    .plans-card{
+        overflow-x: auto;
+    }
+}

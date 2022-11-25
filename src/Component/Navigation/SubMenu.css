@@ -1,0 +1,15 @@
+.sub-menu-nav-list{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    gap:10px;
+}
+
+.sub-menu-nav-list>li{
+    font-size: 1.2rem;
+}
+
+.sub-menu-nav-list>li:hover{
+    color: #f53838;
+}

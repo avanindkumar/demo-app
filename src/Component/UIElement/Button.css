@@ -3,6 +3,7 @@ button{
     height:3rem;
     border-radius: 25px;
     background: transparent;
+    font-weight: 600;
 }
 .primary-big{
     color: white;
@@ -29,7 +30,7 @@ button{
       box-shadow: #f53838 0px 20px 50px -15px;
 }
 .outline{
-    border:1px solid#f53838;
+    border:2px solid#f53838;
     color: rgb(245, 56, 56); 
 }
 .outline:hover{

@@ -1,0 +1,60 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 220px;
+    width: 25%;
+    min-height: 80vh;
+    border: 2px rgba(0 ,0,0,.1) solid;
+    border-radius: 10px;
+    padding-bottom: 50px;
+}
+
+.card:hover{
+    border: 2px #f53838 solid;
+}
+.card-image{
+    margin-top: 100px;
+    width: 150px;
+    height: 150px;
+}
+
+.card-title{
+    font-size: 1.15rem;
+    font-weight: 500;
+}
+
+.card-feature-list{
+    list-style: none;
+    text-align: left;
+    padding:0;
+}
+.card-feature-list>li{
+    margin-bottom: 20px;
+    list-style: none;
+    text-align: left;
+}
+.card-feature-list>li::before{
+    content: "\2713\0020";
+    font-weight: 800;
+    color: green;
+    margin-right: 20px;
+}
+.card-feature-list>li>img{
+    width: 25px;
+    height: 25px;
+}
+
+.card-price{
+    font-size: 1.75rem;
+}
+.card-price-month{
+    font-size: 1.75rem;
+    font-weight: 500;
+    opacity: .6;
+}
+
+.card-aciton{
+    
+}
