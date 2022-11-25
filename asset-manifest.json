@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/demo-app/static/css/main.2d3b051d.css",
+    "main.css": "/demo-app/static/css/main.f75a06f6.css",
     "main.js": "/demo-app/static/js/main.de896b26.js",
     "static/js/787.a3103ff7.chunk.js": "/demo-app/static/js/787.a3103ff7.chunk.js",
     "static/media/Mask Group (1).svg": "/demo-app/static/media/Mask Group (1).64a407400237b2f2db6fcd37703de60c.svg",
@@ -27,12 +27,12 @@
     "static/media/math-multiplication-icon.svg": "/demo-app/static/media/math-multiplication-icon.791f09db985c2eb22e49880fffdf9649.svg",
     "index.html": "/demo-app/index.html",
     "static/media/Facebook.svg": "/demo-app/static/media/Facebook.31f5bdfc997602bb19339a8b1256f0de.svg",
-    "main.2d3b051d.css.map": "/demo-app/static/css/main.2d3b051d.css.map",
+    "main.f75a06f6.css.map": "/demo-app/static/css/main.f75a06f6.css.map",
     "main.de896b26.js.map": "/demo-app/static/js/main.de896b26.js.map",
     "787.a3103ff7.chunk.js.map": "/demo-app/static/js/787.a3103ff7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d3b051d.css",
+    "static/css/main.f75a06f6.css",
     "static/js/main.de896b26.js"
   ]
 }
