@@ -37,7 +37,9 @@ function App() {
   };
   return (
     <div className="App">
-      <MainHeader onClick={navClickHandler} />
+      <div className="sticky">
+        <MainHeader onClick={navClickHandler} />
+      </div>
       <div ref={introSection}>
         <IntroSection />
       </div>

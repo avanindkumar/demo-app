@@ -18,3 +18,6 @@
   left: -40%;
 }
 
+.sticky{
+  position: sticky;
+}
